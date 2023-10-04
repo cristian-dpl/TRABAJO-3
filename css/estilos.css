@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container h2{
+    letter-spacing: 10px;
+    color: #BF56A3;
+    margin-bottom: 30px;
+}
+
+.container img{
+    margin: 0 20px;
+    width: 100%;
+    max-width: 600px;
+}
+
+.container p{
+    line-height: 30px;
+    color: #407CC5;
+    margin-bottom: 30px;
+}
+
+.encabezado{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.encabezado img{
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 50px;
+}
+
+.encabezado h1{
+    letter-spacing: 13px;
+    font-weight: lighter;
+    color: #BF56A3;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+section .pop-century img{
+    float: right;
+}
+
+section .caribbean img{
+    float: left;
+}
+
+section .animal img{
+    float: right;
+}
+
+section .mickey-minnie img{
+    width: 100%;
+    max-width: 100%;
+}
+
+
+
